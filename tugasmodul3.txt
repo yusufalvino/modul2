@@ -1,0 +1,18 @@
+hari ini hari jumat yang cerah
+modul 3 editor github
+belajar menapilkan pritah
+yang terdapat pada vi
+...
+tekae esc berikutnya tekan o untuk kursor ke bawah seperti enter
+tekan esc lalu tekan hjkl dpt menggeser kursor ke kiri bawah atas kanan
+tekan d dan w untuk menghapus seperti backspace
+tekan x untuk menghapus 1 huruf
+tekan esc lalu garis / tulis kata yg di cari miring untuk mencari kata 
+tekan :x untuk keluar tanpa menyimpan, :q keluar dengan menyimpan
+tekan :w untuk menyimpan sebelum keluar
+tekan shift+H untuk membuat kursor naik keatas
+tekan shift+K umtuk kembali ke menu awal
+tekan shift+b untuk kursor mundur 1 kata 
+iqbal iqbal iqbal punya
+
+
